@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated image-processing results
+Versuch2/dunkelbild.npy
+Versuch2/best_korrigiert.png
+Versuch2/best_dunkelkorrigiert.png
